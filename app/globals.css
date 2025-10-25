@@ -1,0 +1,8 @@
+*{box-sizing:border-box}body{margin:0;font-family:system-ui,-apple-system,Sego UI,Roboto,Ubuntu,'Helvetica Neue',Arial}
+.container{max-width:960px;margin:0 auto;padding:24px}
+.card{border:1px solid #e5e7eb;border-radius:8px;padding:16px;margin:12px 0}
+.badge{background:#eef2ff;color:#3730a3;border-radius:6px;padding:4px 8px;font-weight:600}
+.mono{font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace}
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+button{background:#111827;color:#fff;border:none;border-radius:6px;padding:10px 14px;cursor:pointer}
+button.secondary{background:#6b7280}
